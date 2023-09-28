@@ -9,3 +9,7 @@
 
 
 ![chch drawio](https://github.com/TrickAndTrack/SQL/assets/73180409/c2505c6e-01cc-47b1-8a00-f098fec631b0)
+
+
+
+![chch (1)](https://github.com/TrickAndTrack/SQL/assets/73180409/60eb8452-ed61-4009-905d-593ea99ab77a)
