@@ -6,3 +6,6 @@
 
 
 ![chch](https://github.com/TrickAndTrack/SQL/assets/73180409/8abab348-69bd-4410-8065-e0096580d62e)
+
+
+![chch drawio](https://github.com/TrickAndTrack/SQL/assets/73180409/c2505c6e-01cc-47b1-8a00-f098fec631b0)
